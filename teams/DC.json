@@ -1,0 +1,46 @@
+[
+    {
+        "name": "AM Rahane",
+        "type": "bat"
+    },
+    {
+        "name": "PP Shaw",
+        "type": "bat"
+    },
+    {
+        "name": "S Dhawan",
+        "type": "bat"
+    },
+    {
+        "name": "SS Iyer",
+        "type": "bat"
+    },
+    {
+        "name": "DR Sams",
+        "type": "bat"
+    },
+    {
+        "name": "RR Pant",
+        "type": "wk"
+    },
+    {
+        "name": "AR Patel",
+        "type": "all"
+    },
+    {
+        "name": "MP Stoinis",
+        "type": "all"
+    },
+    {
+        "name": "R Ashwin",
+        "type": "bowl"
+    },
+    {
+        "name": "K Rabada",
+        "type": "bowl"
+    },
+    {
+        "name": "A Nortje",
+        "type": "bowl"
+    }
+]

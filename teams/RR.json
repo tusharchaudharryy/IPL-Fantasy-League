@@ -1,0 +1,46 @@
+[
+    {
+        "name": "SV Samson",
+        "type": "bat"
+    },
+    {
+        "name": "SPD Smith",
+        "type": "bat"
+    },
+    {
+        "name": "R Parag",
+        "type": "bat"
+    },
+    {
+        "name": "RV Uthappa",
+        "type": "bat"
+    },
+    {
+        "name": "BA Stokes",
+        "type": "all"
+    },
+    {
+        "name": "JC Buttler",
+        "type": "wk"
+    },
+    {
+        "name": "R Tewatia",
+        "type": "all"
+    },
+    {
+        "name": "S Gopal",
+        "type": "all"
+    },
+    {
+        "name": "JC Archer",
+        "type": "bowl"
+    },
+    {
+        "name": "VR Aaron",
+        "type": "bowl"
+    },
+    {
+        "name": "Kartik Tyagi",
+        "type": "bowl"
+    }
+]

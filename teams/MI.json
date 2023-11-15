@@ -1,0 +1,46 @@
+[
+    {
+        "name": "SS Tiwary",
+        "type": "bat"
+    },
+    {
+        "name": "SA Yadav",
+        "type": "bat"
+    },
+    {
+        "name": "Ishan Kishan",
+        "type": "bat"
+    },
+    {
+        "name": "Q de Kock",
+        "type": "wk"
+    },
+    {
+        "name": "KA Pollard",
+        "type": "all"
+    },
+    {
+        "name": "RG Sharma",
+        "type": "bat"
+    },
+    {
+        "name": "KH Pandya",
+        "type": "bowl"
+    },
+    {
+        "name": "JL Pattinson",
+        "type": "bowl"
+    },
+    {
+        "name": "DS Kulkarni",
+        "type": "bowl"
+    },
+    {
+        "name": "NM Coulter-Nile",
+        "type": "bowl"
+    }, 
+     {
+        "name": "RD Chahar",
+        "type": "bowl"
+     }
+]
