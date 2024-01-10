@@ -4,7 +4,7 @@ const scraper = require('./scraper')
  * @function calculate Calculate team points
  * @param userTeams UserTeam data. Check Schema in points.js
  * @param scoring scoring config
- */
+ */ 
 
 exports.calculate = async (userTeams, scoring) => {
 
