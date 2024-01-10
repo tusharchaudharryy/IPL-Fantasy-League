@@ -13,7 +13,7 @@ const request = require('request')
 function parseScore(html){
     const $ = cheerio.load(html);
     var teams = $('.team');
-    var result = {};
+    var result = {}; 
 
     teams.each((index, team)=>{
         var name = team.children[0].children[1].firstChild.children[0].data;
