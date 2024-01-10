@@ -4,7 +4,7 @@ const request = require('request')
 /**
  * @todo Try to combine the scoreboard elements to have runs and scores in the same element
  */
-
+ 
 /**
  * @function parseHtml_cricinfo Parses the given espncricinfo.com HTML code and returns the playerwise scoreboard
  * @param matchHtml The HTML code
