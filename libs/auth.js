@@ -6,4 +6,5 @@ var authSchema = {
     valid: Boolean
 }
 
+
 module.exports.Auth = mongoose.model('Auth', authSchema)
