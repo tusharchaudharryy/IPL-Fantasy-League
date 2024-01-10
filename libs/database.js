@@ -9,7 +9,7 @@ const connectionPool = mysql.createPool({
     port: 3306,
     multipleStatements: true
 });
-
+ 
 /**
  * @function query All SQL queries
  * @param queryString For other queries and complex queries like joins.
