@@ -5,7 +5,7 @@
         "catch": 10,
         "stump": 10,
         "captainMultiplier": 1.5
-    }, 
+    },  
     "firebaseconfig": {
         "apiKey": "AIzaSyCmnquHaOz1rTMx5_gCK3R7-h2CZOGKPck",
         "authDomain": "satta-group.firebaseapp.com",
