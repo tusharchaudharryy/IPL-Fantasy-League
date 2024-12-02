@@ -6,7 +6,7 @@ var userSchema = new mongoose.Schema({
     currScore : Number,
     cumScore : Number,
     bonusProgress: Number,
-    formIndicator: Number
+    formIndicator: Number 
 });
 
  
